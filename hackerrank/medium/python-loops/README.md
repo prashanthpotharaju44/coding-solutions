@@ -40,7 +40,7 @@ Print $n$ lines, one corresponding to each $i$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T12:51:45.095Z  
+**Submitted:** 2026-10-02T12:51:52.439Z  
 
 ```py
 n=int(input())
